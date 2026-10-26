@@ -94,7 +94,7 @@ Install the following:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/multi-tenant-saas-backend.git
+git clone https://github.com/ajinkya029/multi-tenant-saas.git
 cd multi-tenant-saas
 ```
 
